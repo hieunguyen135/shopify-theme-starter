@@ -1,0 +1,23 @@
+{
+  "name": "shopify-theme-starter",
+  "version": "1.0.0",
+  "description": "Shopify Theme Starter is blank theme that built in gulp, bootstrap 3, jquery and vuejs, you can easy to use it for your shopify theme projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hieunguyen135/shopify-theme-starter.git"
+  },
+  "keywords": [
+    "shopify",
+    "theme"
+  ],
+  "author": "Hieu Nguyen <trunghieu.nth@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hieunguyen135/shopify-theme-starter/issues"
+  },
+  "homepage": "https://github.com/hieunguyen135/shopify-theme-starter#readme"
+}

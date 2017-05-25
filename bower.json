@@ -1,0 +1,20 @@
+{
+  "name": "shopify-theme-starter",
+  "homepage": "https://github.com/hieunguyen135/shopify-theme-starter",
+  "authors": [
+    "Hieu Nguyen <trunghieu.nth@gmail.com>"
+  ],
+  "description": "Shopify Theme Starter is blank theme that built in gulp, bootstrap 3, jquery and vuejs, you can easy to use it for your shopify theme projects",
+  "main": "",
+  "keywords": [
+    "shopify"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
