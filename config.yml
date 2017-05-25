@@ -1,0 +1,20 @@
+development:
+	password: "<your API password>"
+	theme_id: "<Theme ID>"
+	store: "<your name store>.myshopify.com"
+	ignore_files:
+		- "config/settings_data.json"
+		- "gulpfile.js"
+		- ".gitignore"
+		- "package.json"
+		- "node_modules/*"
+production:
+	password: "<your API password>"
+	theme_id: "<Theme ID>"
+	store: "<your name store>.myshopify.com"
+	ignore_files:
+		- "config/settings_data.json"
+		- "gulpfile.js"
+		- ".gitignore"
+		- "package.json"
+		- "node_modules/*"
